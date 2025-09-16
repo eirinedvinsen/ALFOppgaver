@@ -3,11 +3,31 @@
   padding: 0;
 }
 
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.icon{
+  height: 32px;
+  width: 32px;
+}
+
+a{
+  text-decoration: none;
+}
+
 a:hover{
   background-color: yellow;
   font-size: 150%;
 }
 
-h1 h2 p a {
+ul{
+  list-style-type: none;
+}
+
+h1, h2, p, a {
   font-family: "Roboto", sans-serif;
 }
+
