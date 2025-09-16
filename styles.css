@@ -13,3 +13,7 @@ div p {
   justify-content: center;
   align-items: center;
 }
+
+h1 h2 p a {
+  font-family: "Roboto", sans-serif;
+}
