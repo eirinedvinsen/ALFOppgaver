@@ -1,0 +1,30 @@
+.icon{
+    height: 64px;
+    width: 64px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+body{
+    background: 
+    linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), 
+    url("imagesOpgEn/ChatGPT Image 19. sep. 2025, 13_09_29.png") center no-repeat fixed;
+    background-size: contain;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section h1{
+    order: 1;
+}
+
+section h3{
+    order: 2;
+}
